@@ -1,8 +1,6 @@
 # MY-Portfolio
 
-My personal portfolio web page.
 
-live link : https://myportfolio-resplendent-khapse-5ba454.netlify.app/
 
 First, I prepared a markdown, fully detailed. When I gave the full detailed markdown prompt, in the very first attempt the website was built and the build turned out very good.
 
